@@ -1,0 +1,40 @@
+.main_title {
+  text-align: center;
+  padding-top: 45px;
+  padding-bottom: 35px;
+  background-color: #34495e;
+}
+.main_title h1 {
+  font-family: 'Kaushan Script';
+  color:#fff;
+  font-size: 92px;
+}
+
+.input_wrap label {
+  font-family: 'Lato';
+  text-align: center;
+  font-size: 32px;
+  padding-right: 15px;
+  display: block;
+  border-radius: 5;
+}
+
+.input_wrap {
+  text-align: center;
+  /*outline: 1px solid red;*/
+  width: 400px;
+  padding: 10px;
+  margin: 100px auto;
+}
+input[type="text"]{
+  height: 20px;
+  width: 250px;
+  border-radius: 5px;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+}
+.list_ul li{
+  font-family: 'Roboto';
+}
